@@ -2,13 +2,14 @@
 Remove video player on youtube (Mozilla)
 
 # Configurations
-Clone the project
+1 - Clone the project
 
-Go to: about:debugging#/runtime/this-firefox
+2 -  Go to: about:debugging#/runtime/this-firefox
 
-Add temporary extension
+3 -  Add temporary extension
 
-Go to music.youtube.com 
+4 -  Go to music.youtube.com 
+
 
 Maybe in the future i can add some functions. 
 Enjoy, it's free ;) 
